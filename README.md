@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @lihtak
-- 👀 I’m interested in fullstack development, APIs, and databases!
+- Hi, I’m Katherine Li @lihtak
+- I’m interested in fullstack development, APIs, and databases!
 
 <!---
 lihtak/lihtak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
